@@ -3,7 +3,6 @@ import { getFirestore, collection, doc, getDocs, getDoc, query, where } from "fi
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCwdIpVNKhxl2_HyQqD4KJowzDu1WjuohY",
   authDomain: "vanlife-8b9e5.firebaseapp.com",
   projectId: "vanlife-8b9e5",
   storageBucket: "vanlife-8b9e5.appspot.com",
